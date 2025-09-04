@@ -72,7 +72,7 @@ VITE_IMG=https://image.tmdb.org/t/p/w500/
 1. Clone o repositório
 
     ```bash
-    git clone https://github.com/seu-usuario/movies_lib.git
+    git clone [(https://github.com/EliezerMigu3l00/MaisPraTI-Atividade5.git)}
     cd movies_lib
     ```
 
