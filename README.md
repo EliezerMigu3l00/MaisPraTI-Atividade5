@@ -65,24 +65,33 @@ VITE_SEARCH=https://api.themoviedb.org/3/search/movie
 VITE_IMG=https://image.tmdb.org/t/p/w500/
 ```
 
--   Substitua SEU_API_KEY_AQUI pela sua chave de API do TMDb.
+### Instruções:
+
+Obtenha sua chave de API do TMDb em: [Configurações da API](https://www.themoviedb.org/settings/api)
+
+Cole a chave no campo VITE_API_KEY subistituindo SEU_API_KEY_AQUI.
 
 ## Como executar
 
 1. Clone o repositório
 
     ```bash
-    git clone [(https://github.com/EliezerMigu3l00/MaisPraTI-Atividade5.git)}
-    cd movies_lib
+    git clone https://github.com/EliezerMigu3l00/MaisPraTI-Atividade5.git
     ```
-
-2. Instale as dependências
+2. Entre no projeto
+   ```bash
+   cd .\MaisPraTI-Atividade5\
+   ```
+   ```bash
+   cd movies_lib
+   ```
+4. Instale as dependências
 
     ```bash
     npm install
     ```
 
-3. Inicie a aplicação
+5. Inicie a aplicação
 
     ```bash
     npm run dev
